@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DAXMLDocument>
+    <OCONTROL>
+        <ALIAS>
+            <data_type>text</data_type>
+            <value>UC_CALL4</value>
+        </ALIAS>
+        <SIGNATURE>
+            <data_type>text</data_type>
+            <value>Konrad42</value>
+        </SIGNATURE>
+        <EDITION>
+            <data_type>numeric</data_type>
+            <value>11</value>
+        </EDITION>
+        <OBJECTIVE>
+            <data_type>text</data_type>
+            <value>УК PIL &amp; REF CALL3</value>
+        </OBJECTIVE>
+        <EDITIONDATE>
+            <data_type>date</data_type>
+            <value>2019-02-06</value>
+            <date_format>yyyy-MM-dd</date_format>
+        </EDITIONDATE>
+        <ERRORCOUNT>
+            <data_type>text</data_type>
+            <value>0</value>
+        </ERRORCOUNT>
+    </OCONTROL>
+    <LAYOUT>
+
+    </LAYOUT>
+</DAXMLDocument>
